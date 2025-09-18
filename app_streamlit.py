@@ -25,6 +25,6 @@ if st.button("Prediksi", type="primary"):
 
 
 st.divider()
-st.caption("Dibuat dengan ☕ oleh **Adi Setiawan**")
+st.caption("Dibuat dengan ☕ oleh **Syifa Amalia Zikrina**")
 
 
